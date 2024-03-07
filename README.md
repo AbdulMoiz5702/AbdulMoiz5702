@@ -1,31 +1,116 @@
-<h1 align="center">Hi 👋, I'm Abdul Mohiz Khan</h1>
-<h3 align="center">A passionate Flutter Developer from Pakistan</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-<img align="right" alt="coding" width="400" src"https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ISHAQ+FARID....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmoiz5702&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmoiz5702" /> </p>
-
-- 🔭 I’m currently working on **Gym App**
-
-- 🌱 I’m currently learning **Flutter and Dart**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AbdulMoiz5702?tab=repositories](https://github.com/AbdulMoiz5702?tab=repositories)
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **abdulmoizkha5702@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h5 align="center">
+  <code><a href="www.linkedin.com/in/ishaq-farid" title="LinkedIn Profile"><img width="22" src="assets/linedkin.png"> LinkedIn</a></code>
+  <code><a href="https://www.fiverr.com/s/jDKrzZ" title="Fiverr"><img width="22" src="assets/fiverer.webp"> Fiverr</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Abdul Mohiz Khan, Flutter App Developer and Cross Platfrom Developer | I'm excited to dive into the endless ocean of knowledge and explore new horizons!
+  <br>
+  <br>
+  🔬 I'm currently running an Software Company named "FalconByte solutions"
+  <br>
+  🎓 I graduated from University of Haripur, Haripur, Department of Information Technology
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce apps with Serverpod(Dart as a Backend)
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/AbdulMoiz5702?tab=repositories" title="Flutter and Dart">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: abdulmoizkhan5702@gmail.com">abdulmoizkhan5702@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="Dart" height="25" src="assets/dart.png"></code>
+  <code><img title="Git" height="25" src="assets/git.png"></code>
+  <code><img title="Android" height="25" src="assets/android.png"></code>
+  <code><img title="GitHub" height="25" src="assets/github.webp"></code>
+  <code><img title="Visual Studio Code" height="25" src="assets/visual studio.svg"></code>
+  <code><img title="Android Studio" height="25" src="assets/android sstudio.png"></code>
+  <code><img title="Docker" height="25" src="assets/docker.png"></code>
+</p>
+<hr>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulmoiz5702&show_icons=true&locale=en&layout=compact" alt="abdulmoiz5702" /></p>
+<p align="center">
+  <div align="center">
+    <a href="https://git.io/streak-stats" title="GitHub Streak">
+      <img src="https://streak-stats.demolab.com?user=AbdulMoiz5702&theme=dark" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
+      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=AbdulMoiz5702&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulmoiz5702&show_icons=true&locale=en" alt="abdulmoiz5702" /></p>
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMoiz5702&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmoiz5702&" alt="abdulmoiz5702" /></p>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMoiz5702&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+</p>
+
+
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/AbdulMoiz5702/new_personlaity" title="Personality Test"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulMoiz5702&repo=new_personlaity_app&theme=react&border_color=61dafb&border_radius=10"></a>
+
+
+<a align="right" href="https://github.com/AbdulMoiz5702/tracking" title="Expernse Tracking "><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulMoiz5702&repo=tracking&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/AbdulMoiz5702/quiz" title="Quiz App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulMoiz5702&repo=quizr&theme=react&border_color=61dafb&border_radius=10"></a>
+
+
+  <a align="right" href="https://github.com/AbdulMoiz5702/CryptoCurrrencyApp" title="Crupto Price App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulMoiz5702&repo=CryptoCurrrencyApp&theme=react&border_color=61dafb&border_radius=10"></a>
+
+  <a align="right" href="https://github.com/AbdulMoiz5702/tic_tac_toa" title="Tic Toe"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulMoiz5702&repo=tic_tac_toa&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
+<h4 align="center">
+  <a href="https://github.com/AbdulMoiz5702?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+
+<!--
+**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+
+![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+
+-->
